@@ -1,0 +1,85 @@
+[{
+        "mobile": "tech pro",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "19000",
+        "image": "img-holder/infinix-note-12-vip-pakistan-priceoye-17e3z-270x270.webp",
+        "id":"1"
+    },
+    {
+        "mobile": "Champ 11",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "20000",
+        "image": "img-holder/infinix-smart-6-hd-pakistan-priceoye-yemk8-270x270.webp",
+        "id":"2"
+    },
+    {
+        "mobile": "ninja 30",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "18000",
+        "image": "img-holder/nokia-5-4-pakistan-priceoye-i73zd-270x270.webp",
+        "id":"3"
+    },
+    {
+        "mobile": "techwiz 12 pro",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "55000",
+        "image": "img-holder/nokia-g21-pakistan-priceoye-xi1zr-270x270.webp",
+        "id":"4"
+    },
+    {
+        "mobile": "techno spark 10",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "41000",
+        "image": "img-holder/oppo-f21-pro-5g-pakistan-priceoye-9updh-270x270.webp",
+        "id":"5"
+    },
+    {
+        "mobile": "redmi hot 10",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "40000",
+        "image": "img-holder/realme-9-4g-pakistan-priceoye-9e84o-270x270.webp",
+        "id":"6"
+    },
+    {
+        "mobile": "samsung galaxy A21",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "30000",
+        "image": "img-holder/samsung-galaxy-a13-pakistan-priceoye-o6gzw-270x270.webp",
+        "id":"7"
+    },
+    {
+        "mobile": "Infinix note 10",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "31000",
+        "image": "img-holder/samsung-galaxy-s22-pakistan-priceoye-k2kbm-270x270.webp",
+        "id":"8"
+    },
+    {
+        "mobile": "Spark 5 ultra",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "11000",
+        "image": "img-holder/xiaomi-redmi-10a-pakistan-priceoye-n9of0-270x270.webp",
+        "id":"9"
+    },
+    {
+        "mobile": "realme 9",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "19000",
+        "image": "img-holder/xiaomi-redmi-note-11-pakistan-priceoye-jek47-270x270.webp",
+        "id":"10"
+    },
+    {
+        "mobile": "Nigro 19",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "28000",
+        "image": "img-holder/xiaomi-redmi-note-11-pro-pakistan-priceoye-2l2b1-270x270.webp",
+        "id":"11"
+    },
+    {
+        "mobile": "Xperia 20 nitro",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos delectus, sint, aliquam suscipit quidem illo saepe, accusantium voluptates doloribus nemo autem.",
+        "price": "190000",
+        "image": "img-holder/xiaomi-redmi-note-11-pakistan-priceoye-jek47-270x270.webp",
+        "id":"12"
+    }
+]

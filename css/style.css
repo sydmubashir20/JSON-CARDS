@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.c-id{
+  background-color: rgb(219, 217, 217) !important;
+}
+.body{
+    padding: 10px;
+    text-align: justify;
+}
+.my-btn{
+  background-color: rgb(51, 50, 50) !important;
+  border: none !important;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="Product-name"></title>
+</head>
+<body>
+    <table>
+    <tr>
+        <th>Img</th>
+        <td><img src="" id="p-img" alt=""></td>
+        <th>Mobile name</th>
+        <td id="p-name"></td>
+        <th>Description</th>
+        <td id="p-desc"></td>
+        <th>Price</th>
+        <td id="p-price"></td>
+        <th>Product id</th>
+        <td id="p-id"></td>
+    </tr>
+    </table>
+</body>
+<script>
+    const IMG=document.querySelector('#p-img');
+    const Name=document.querySelector('#p-name');
+    const Description=document.querySelector('#p-desc');
+    const Price=document.querySelector('#p-price');
+    const ID=document.querySelector('#p-id');
+
+    const url = window.location.search;
+    const urlParams = new URLSearchParams(url);
+    
+  let id=urlParams.get('id');
+  let img=urlParams.get('img');
+  let name=urlParams.get('name');
+  let desc=urlParams.get('desc');
+  let pirce=urlParams.get('pirce');
+
+  IMG.src=img;
+  Name.innerHTML=name;
+  Description.innerHTML=desc;
+  Price.innerHTML=pirce;
+  ID.innerHTML=id;
+  
+</script>
+</html>
